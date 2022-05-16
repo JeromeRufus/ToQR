@@ -59,7 +59,7 @@ class _SplashScreenState extends State<SplashScreen> {
             //    SizedBox(
             //   height: 20,
             // ),
-            const Text("Welcome to SJC Campus Information ",
+            const Text("Welcome to SJC  Information",
                 style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold)),
             const CircularProgressIndicator(
               valueColor: AlwaysStoppedAnimation<Color>(Colors.white),
